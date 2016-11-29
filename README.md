@@ -1,2 +1,2 @@
 # ITGuyCoder.github.io
-coding site
+A website for information on coding.
